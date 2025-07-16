@@ -2,7 +2,7 @@
 
 > A capstone project analyzing the environmental impact of AI models and proposing a composite sustainability metric called the **Green Score Index**.
 
-![Banner](<img width="1536" height="1024" alt="ChatGPT Image Jul 16, 2025, 08_24_45 PM" src="https://github.com/user-attachments/assets/d471440f-6e1d-4f11-b4c0-22c63c5f01d3" />)
+[Banner](<img width="1536" height="1024" alt="ChatGPT Image Jul 16, 2025, 08_24_45 PM" src="https://github.com/user-attachments/assets/d471440f-6e1d-4f11-b4c0-22c63c5f01d3" />)
 
 ---
 
