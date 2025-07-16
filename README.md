@@ -102,11 +102,17 @@ green-algorithms/
 ## 📸 Sample Visuals
 
 <img width="726" height="438" alt="Screenshot 2025-07-16 194731" src="https://github.com/user-attachments/assets/4d6c043a-8fdb-42b0-aadd-1e8c4aab6251" />
+
+
 *Emissions comparison by AI model type*
 
 
+
 <img width="2400" height="1400" alt="green_score_index_by_model_type" src="https://github.com/user-attachments/assets/c0bd81b5-04a2-406e-bb63-8cb8c6e51201" />
+
+
 *Top 10 most sustainable AI models ranked by GSI*
+
 
 ---
 
