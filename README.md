@@ -2,7 +2,7 @@
 
 > A capstone project analyzing the environmental impact of AI models and proposing a composite sustainability metric called the **Green Score Index**.
 
-[Banner]
+
 <img width="1536" height="1024" alt="ChatGPT Image Jul 16, 2025, 08_24_45 PM" src="https://github.com/user-attachments/assets/d471440f-6e1d-4f11-b4c0-22c63c5f01d3" />
 
 
@@ -101,11 +101,10 @@ green-algorithms/
 
 ## 📸 Sample Visuals
 
-![Model Type Emissions]
 <img width="726" height="438" alt="Screenshot 2025-07-16 194731" src="https://github.com/user-attachments/assets/4d6c043a-8fdb-42b0-aadd-1e8c4aab6251" />
 *Emissions comparison by AI model type*
 
-![Green Score Index]
+
 <img width="2400" height="1400" alt="green_score_index_by_model_type" src="https://github.com/user-attachments/assets/c0bd81b5-04a2-406e-bb63-8cb8c6e51201" />
 *Top 10 most sustainable AI models ranked by GSI*
 
